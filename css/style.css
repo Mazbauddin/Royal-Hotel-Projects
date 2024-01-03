@@ -93,5 +93,5 @@ header {
 .button a.btn:hover {
   background-color: #3269ff;
   color: rgb(255, 255, 255);
-  border: none;
+  border: transparent;
 }
