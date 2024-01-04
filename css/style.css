@@ -3,6 +3,7 @@
   padding: 0;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
+
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url(../images/slider-5.jpg);
@@ -31,11 +32,11 @@ header {
 }
 .main ul li:hover > a {
   background-color: #3269ff;
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
 }
 .main ul li.active a {
   background-color: #3269ff;
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
 }
 .logo img {
   float: left;
